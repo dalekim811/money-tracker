@@ -1,0 +1,7 @@
+// To push changes to bitbucket
+git add --all
+git commit -m "<what ever you want to say about push>"
+git push origin master
+
+// To pull changes, just simply 
+git pull
